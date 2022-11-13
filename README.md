@@ -7,7 +7,7 @@
 ###### In this system, keywords are used to describe the items, and a user profile is built to indicate the type of item this user likes. In other words, these algorithms try to recommend items similar to those that a user liked in the past or is examining in the present. It does not rely on a user sign-in mechanism to generate this often temporary profile. In particular, various candidate items are compared with items previously rated by the user, and the best-matching items are recommended. This approach has its roots in information retrieval and information filtering research.
 
 ###### To create a user profile, the system mostly focuses on two types of information:
-
+![alt text](https://github.com/akashdasp/Movie_Recomender_system/blob/10bc81aeba601dde7551683ff5a4425b3a0e9cee/my4.png)
 ###### 1. A model of the user's preference.
 
 ###### 2. A history of the user's interaction with the recommender system.
